@@ -1,0 +1,10 @@
+C:\Users\Lamenas\Desktop\Final_Project_Group_C\Final_Project_Group_C\obj\Debug\Final_Project_Group_C.csprojAssemblyReference.cache
+C:\Users\Lamenas\Desktop\Final_Project_Group_C\Final_Project_Group_C\obj\Debug\Final_Project_Group_C.Properties.Resources.resources
+C:\Users\Lamenas\Desktop\Final_Project_Group_C\Final_Project_Group_C\obj\Debug\Final_Project_Group_C.csproj.GenerateResource.cache
+C:\Users\Lamenas\Desktop\Final_Project_Group_C\Final_Project_Group_C\obj\Debug\Final_Project_Group_C.csproj.CoreCompileInputs.cache
+C:\Users\Lamenas\Desktop\Final_Project_Group_C\Final_Project_Group_C\bin\Debug\Final_Project_Group_C.exe.config
+C:\Users\Lamenas\Desktop\Final_Project_Group_C\Final_Project_Group_C\bin\Debug\Final_Project_Group_C.exe
+C:\Users\Lamenas\Desktop\Final_Project_Group_C\Final_Project_Group_C\bin\Debug\Final_Project_Group_C.pdb
+C:\Users\Lamenas\Desktop\Final_Project_Group_C\Final_Project_Group_C\obj\Debug\Final_Project_Group_C.exe
+C:\Users\Lamenas\Desktop\Final_Project_Group_C\Final_Project_Group_C\obj\Debug\Final_Project_Group_C.pdb
+C:\Users\Lamenas\Desktop\Final_Project_Group_C\Final_Project_Group_C\obj\Debug\Final_Project_Group_C.Form1.resources
